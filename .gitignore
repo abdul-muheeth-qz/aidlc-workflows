@@ -5,6 +5,7 @@
 .codebuild/**
 .worktrees/**
 .vscode/**
+.kiro/**
 .env
 buildspec.yml
 codebuild_build.sh
