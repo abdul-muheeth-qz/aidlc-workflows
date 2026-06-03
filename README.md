@@ -18,7 +18,7 @@ AI-DLC is an intelligent software development workflow that adapts to your needs
 - [Tenets](#tenets)
 - [Prerequisites](#prerequisites)
 - [Troubleshooting](#troubleshooting)
-- [Version Control Recommendations](#version-control-recommendations)
+- [Version Control Recommendations](#version-control-recommendations)j
 - [Additional Resources](#additional-resources)
 - [Generated aidlc-docs/ Reference](#generated-aidlc-docs-reference)
 - [Experimental: AI-Assisted Setup (Release Download)](#experimental-ai-assisted-setup-release-download)
